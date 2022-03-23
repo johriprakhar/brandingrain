@@ -1,0 +1,156 @@
+[01-Aug-2021 17:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Aug-2021 01:52:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Aug-2021 04:54:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Aug-2021 23:08:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Aug-2021 13:18:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Aug-2021 11:03:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Aug-2021 04:45:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2021 21:18:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Aug-2021 01:23:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Aug-2021 21:37:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Aug-2021 23:40:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Aug-2021 12:15:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Aug-2021 02:05:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Aug-2021 03:50:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Aug-2021 04:35:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Aug-2021 14:44:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 00:28:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 11:23:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 11:24:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Aug-2021 14:49:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Aug-2021 04:47:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Aug-2021 02:09:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Aug-2021 18:31:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Sep-2021 06:09:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Sep-2021 10:22:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Sep-2021 03:27:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Sep-2021 14:49:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 12:06:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Sep-2021 22:22:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Sep-2021 22:56:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Sep-2021 01:45:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Sep-2021 05:48:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Sep-2021 05:58:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2021 16:19:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[20-Sep-2021 03:01:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 01:01:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 04:25:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Sep-2021 11:32:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Sep-2021 02:43:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/brandin4/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
